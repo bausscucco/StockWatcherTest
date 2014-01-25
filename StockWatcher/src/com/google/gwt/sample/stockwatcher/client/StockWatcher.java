@@ -25,10 +25,7 @@ import com.google.gwt.user.client.Window;
 import com.google.gwt.i18n.client.DateTimeFormat;
 import com.google.gwt.user.client.ui.Anchor;
 
-// oh man I added a comment better commit this right away
-
-// man...I hate eclipse....wont show my pretty mojis....
-
+// OH NO IT'S A CONFLICT!!!!!!!!!!!
 
 public class StockWatcher implements EntryPoint {
 
