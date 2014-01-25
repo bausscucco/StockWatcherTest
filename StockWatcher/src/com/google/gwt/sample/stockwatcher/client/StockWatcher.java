@@ -25,7 +25,7 @@ import com.google.gwt.user.client.Window;
 import com.google.gwt.i18n.client.DateTimeFormat;
 import com.google.gwt.user.client.ui.Anchor;
 
-// OH NO IT'S A CONFLICT!!!!!!!!!!!
+// I ate pie today (no I didn't that's a lie >.>)
 
 public class StockWatcher implements EntryPoint {
 
