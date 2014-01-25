@@ -27,6 +27,8 @@ import com.google.gwt.user.client.ui.Anchor;
 
 // oh man I added a comment better commit this right away
 
+// man...I hate eclipse....wont show my pretty mojis....
+
 
 public class StockWatcher implements EntryPoint {
 
